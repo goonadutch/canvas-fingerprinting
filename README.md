@@ -10,6 +10,6 @@ The purpose of this project is to raise awareness about the risks of online priv
 
 Click here to check out ⬇️
 
-[https://canvas-fingerpriting.netlify.app]
+[https://browser-fingerprinting.netlify.app/]
 
 
