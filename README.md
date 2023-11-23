@@ -10,16 +10,6 @@ The purpose of this project is to raise awareness about the risks of online priv
 
 Click here to check out ⬇️
 
-[`Digital Fingerprint site`](https://rakeshid03.github.io/digital-fingerprint/)
+[https://canvas-fingerpriting.netlify.app]
 
-## Disclaimer
 
-**No data collection:** Digital Fingerprint clearly states that it does not collect or store any user data on its servers, ensuring that user privacy is respected.
-
-## Contributing
-
-Welcome contributions from the open-source community to help make this project even better. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
-## Contact me
-
-If you have any questions, comments, or concerns about the this project, please contact me by [`@rakeshid03`](https://rakeshid03.github.io/about-me/).
